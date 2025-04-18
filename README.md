@@ -55,4 +55,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-oliveira-255628252/)
 - 🌐 [Portfólio](https://seuportfolio.com) (Em Desenvolvimento)
 
-> ⚠️ Meus projetos são privados por questões de confidencialidade. Entre em contato caso queira ver alguma demo ou explicação!
+> ⚠️ Meus projetos são privados por questões de confidencialidade. Entre em contato caso queira ver alguma demo ou explicação!!
