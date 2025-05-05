@@ -52,7 +52,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=felipeoliveira&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-oliveira-255628252/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipeoj/)
 - 🌐 [Portfólio](https://seuportfolio.com) (Em Desenvolvimento)
 
 > ⚠️ Meus projetos são privados por questões de confidencialidade. Entre em contato caso queira ver alguma demo ou explicação!!
