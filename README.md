@@ -53,6 +53,6 @@
 
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipeoj/)
-- 🌐 [Portfólio](https://seuportfolio.com) (Em Desenvolvimento)
+- 🌐 [Portfólio](https://felipeoj.dev)
 
 > ⚠️ Meus projetos são privados por questões de confidencialidade. Entre em contato caso queira ver alguma demo ou explicação!!
