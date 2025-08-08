@@ -11,6 +11,7 @@
 ## 💼 Sobre mim
 
 - 🔐 Profissional vindo da Infraestrutura com certificação em **Cibersegurança**, agora atuando como **Desenvolvedor Fullstack Júnior**
+- 🎓 Estudante ativo na plataforma **Cod3r**, focado em tecnologias modernas e práticas de mercado
 - 🚀 Experiência com **React**, **Next.js**, **Node.js**, **NestJS**, **Spring Boot**, **JPA** e **SQL**
 - 🛠️ Utilizando ferramentas modernas como **Docker**, **GitHub Actions** e **CI/CD**
 - 🧠 Focado em aprendizado contínuo, boas práticas de desenvolvimento, segurança e arquitetura limpa
